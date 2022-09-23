@@ -1,0 +1,1 @@
+recent work in understanding the representation of texture in the primate brain has shown that texture selectivity arises in Area V2 of visual cortex, which receives primary input from Area V1. Therefore, it seems that the brain can achieve selectivity for texture in far fewer stages than are commonly used in the deep CNNs.

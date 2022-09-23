@@ -1,0 +1,3 @@
+https://www.v7labs.com/blog/neural-networks-activation-functions
+
+![[activations.jpg]]

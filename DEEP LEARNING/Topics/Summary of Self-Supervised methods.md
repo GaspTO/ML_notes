@@ -1,0 +1,1 @@
+Stop grad in both **BYOL** and **SimSiam** make it possible to not use negative examples.
